@@ -1,4 +1,8 @@
-### hey there 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+### Hey There 👋
 <a href="https://www.instagram.com/parth_gujral0434/">
   <img align="left" alt="Parth's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -23,6 +27,7 @@ i am also an open-source enthusiast and maintainer and made a lot of personal Pr
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
+
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
