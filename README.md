@@ -17,7 +17,7 @@ hi, i'm Parth Gujral aka Pggeeks a passionate self-taught Backend web developer 
 i am also an open-source enthusiast and maintainer and made a lot of personal Projects check my profile for such projects i can guarantee you it will be worth your time.
 
 
-  <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="code.gif" width="1000" height="2200" />
   
 - 💼 any freelance work? do reach, [email](mailto:parthgujral26@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
