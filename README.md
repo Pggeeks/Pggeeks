@@ -39,7 +39,7 @@ Started Programing in 2020 and learned a lot of things since then and still lear
 <code><img height="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/premierepro/premierepro-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain.svg"></code>
-
+<code><img height="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg"></code>
 
 ### :woman_technologist: There is more to it :
 Other than a good programmer i am also a Swing/Day Trader and a video editor( Adobe premiere ) Too.
