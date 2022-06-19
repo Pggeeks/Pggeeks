@@ -3,19 +3,23 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 </div>
 
-**Hey There**
+**Hey There**👋
 
-<a href="https://www.instagram.com/parth_gujral0434/">
-  <img align="left" alt="Parth's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/parth_gujral0434/" align="center">
+  <img align="left" alt="Parth's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png">
 </a>
-<a href="https://www.linkedin.com/">
-  <img align="left" alt="Parth's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/" align="center">
+  <img align="left" alt="Parth's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
 </a>
-<a href="https://www.youtube.com/c/DoctorPotato">
-  <img align="left" alt="yt channel" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+<a href="https://www.youtube.com/c/DoctorPotato" align="center">
+  <img align="left" alt="yt channel" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
 </a>
-### :woman_technologist: About Me :
-hi, i'm Parth Gujral aka Pggeeks a passionate self-taught Backend web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with Robust Code. i take great care in the experience, logic, architecture, and code quality of the things I build. and
+<br>
+<br>
+
+**About Me**
+
+hi, i'm **Parth Gujral aka Pggeeks** a passionate self-taught Backend web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with Robust Code. i take great care in the experience, logic, architecture, and code quality of the things I build. and
 my preference will always be Backend 🤌
 
 i am also an open-source enthusiast and maintainer and made a lot of personal Projects check my profile for such projects i can guarantee you it will be worth your time ⏰.
