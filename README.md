@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <br>
-### Hey There:
+**Hey There:**
 <br>
 <a href="https://www.instagram.com/parth_gujral0434/">
   <img align="left" alt="Parth's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -21,7 +21,7 @@ my preference will always be Backend 🤌
 i am also an open-source enthusiast and maintainer and made a lot of personal Projects check my profile for such projects i can guarantee you it will be worth your time ⏰.
 Started Programing in 2020 and learned a lot of things since then and still learning new Things its like a never ending cycle.
 <br>
-**“Develop a passion for learning. If you do, you will never cease to grow.” – Anthony J. D’Angelo**
+***“Develop a passion for learning. If you do, you will never cease to grow.” – Anthony J. D’Angelo***
 
   <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
   
