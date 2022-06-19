@@ -42,7 +42,7 @@ i am also an open-source enthusiast and maintainer and made a lot of personal Pr
 ### :woman_technologist: There is more to it :
 Other than a good programmer i am also a Swing/Day Trader and a video editor( Adobe premiere ) Too.
 in my free time, i post content on Youtube
-Read books(self-Development,Finance) and much more.
+,Read books(self-Development,Finance) and much more.
 
 📈 my github stats
 
