@@ -2,8 +2,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h2> Hey There </h2>
 <br>
+### :wave: Hey There:
 <a href="https://www.instagram.com/parth_gujral0434/">
   <img align="left" alt="Parth's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -17,8 +17,10 @@
 hi, i'm Parth Gujral aka Pggeeks a passionate self-taught Backend web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with Robust Code. i take great care in the experience, logic, architecture, and code quality of the things I build. and
 my preference will always be Backend 🤌
 
-i am also an open-source enthusiast and maintainer and made a lot of personal Projects check my profile for such projects i can guarantee you it will be worth your time.
-
+i am also an open-source enthusiast and maintainer and made a lot of personal Projects check my profile for such projects i can guarantee you it will be worth your time ⏰.
+Started Programing in 2020 and learned a lot of things since then and still learning new Things its like a never ending cycle.
+<br>
+**“Develop a passion for learning. If you do, you will never cease to grow.” – Anthony J. D’Angelo**
 
   <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
   
