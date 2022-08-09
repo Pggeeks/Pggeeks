@@ -48,4 +48,4 @@ in my free time, i post content on Youtube
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pggeeks&show_icons=true&theme=gotham" alt="pggeeks" />
+<p align="center"> <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pggeeks&show_icons=true&theme=radical)" alt="pggeeks" />
