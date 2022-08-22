@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/parth_gujral0434/" align="center">
   <img align="left" alt="Parth's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png">
 </a>
-<a href="https://www.linkedin.com/" align="center">
+<a href="https://www.linkedin.com/in/parth-gujral-00b6b0245/" align="center">
   <img align="left" alt="Parth's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
 </a>
 <a href="https://www.youtube.com/c/DoctorPotato" align="center">
