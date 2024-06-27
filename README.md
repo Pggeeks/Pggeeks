@@ -45,9 +45,6 @@ Other than a good programmer i am also a Swing/Day Trader and a video editor( Ad
 in my free time, i post content on Youtube
 ,Read books(self-Development,Finance) and much more.
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pggeeks&count_private=true&show_icons=true&theme=dark" alt="pggeeks" />
   
 📝 Open-Source Contribution
 
