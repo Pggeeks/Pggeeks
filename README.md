@@ -39,10 +39,6 @@ i am also an open-source enthusiast and maintainer and made a lot of personal Pr
 <code><img height="55" src="https://img.icons8.com/color/480/null/bootstrap.png"></code>
 <code><img height="55" src="https://img.icons8.com/ultraviolet/480/null/selenium-test-automation.png"></code>
 
-### :woman_technologist: There is more to it :
-Other than a good programmer i am also a Swing/Day Trader and a video editor( Adobe premiere ) Too.
-in my free time, i post content on Youtube
-,Read books(self-Development,Finance) and much more.
 
   
 📝 Open-Source Contribution
