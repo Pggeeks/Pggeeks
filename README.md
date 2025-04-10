@@ -1,13 +1,7 @@
 **Hey There**👋
 
-<a href="https://www.instagram.com/parth_gujral0434/" align="center">
-  <img align="left" alt="Parth's Instagram" width="35px" src="https://img.icons8.com/fluency/400/null/instagram-new.png">
-</a>
 <a href="https://www.linkedin.com/in/parth-gujral-00b6b0245/" align="center">
   <img align="left" alt="Parth's LinkedIN" width="35px" src="https://img.icons8.com/color/480/null/linkedin.png">
-</a>
-<a href="https://www.youtube.com/c/DoctorPotato" align="center">
-  <img align="left" alt="yt channel" width="35px" src="https://img.icons8.com/color/480/null/youtube-play.png">
 </a>
 <br>
 <br>
