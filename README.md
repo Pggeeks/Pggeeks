@@ -18,7 +18,6 @@ hi, i'm **Parth Gujral aka Pggeeks** a passionate self-taught Backend web develo
 my preference will always be Backend 🤌
 
 i am also an open-source enthusiast and maintainer and made a lot of personal Projects check my profile for such projects i can guarantee you it will be worth your time ⏰.
-Started Programing in 2020 and learned a lot of things since then and still learning new Things its like a never ending cycle.
 <br>
 ***“Develop a passion for learning. If you do, you will never cease to grow.” – Anthony J. D’Angelo***
 
